@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Wood:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Wood_jar</output-path>
+    <root id="archive" name="Wood.jar">
+      <element id="module-output" name="Wood" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../All_we/Alex/Projects/Wood/commons-net-3.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../All_we/Alex/Projects/Wood/org.jfree.svg-5.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
