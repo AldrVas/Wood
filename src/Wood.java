@@ -455,7 +455,7 @@ enum SortMethod{
 }
 
 class CutValue{
-    int StartMPosX = 20, StartMPosY = 30, FontSize = 12, MaxPosX = 1200;
+    int StartMPosX = 20, StartMPosY = 60, FontSize = 24, MaxPosX = 1500;
     static Point FramePosition;
     boolean Complete = false;
     int Value;
