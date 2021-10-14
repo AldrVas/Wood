@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Task IncisionThickness="5">
+	<BasicMaterial Length="1000" Width="800"/>
+	<BasicMaterial Length="1000" Width="700"/>
+	<Material Length="1000" Width="500"/>
+	<Material Length="700" Width="300"/>
+
+	<Detail Length="500" Width="600"/>
+	<Detail Length="1000" Width="300"/>
+	<Detail Length="900" Width="400"/>
+	<Detail Length="100" Width="300"/>
+	<Detail Length="100" Width="400"/>
+	<Detail Length="100" Width="400"/>
+	<Detail Length="100" Width="200"/>
+	<Detail Length="100" Width="500"/>
+	<Detail Length="1000" Width="550"/>
+</Task>
